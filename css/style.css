@@ -1,0 +1,17 @@
+body {
+    background-image: url('../img/banner2.jpg');
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+.perfil{
+    background-color: rgb(119, 119, 119);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    opacity: 80%;
+}
+.contact{
+    text-align: center;
+    background-color: rgb(109, 109, 109);
+}
